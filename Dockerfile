@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-dashboard-init-ppc64le:v1.0.0
+FROM gcr.io/google_containers/kubernetes-dashboard-init-ppc64le
 MAINTAINER Victor Lee <lisy@zoomserver.cn>
